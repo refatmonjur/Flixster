@@ -16,10 +16,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-![](week2.gif)
+<img src="week2.gif" width=250><br>
 
 ### Notes
 The collection view was the most difficult part because of one setting on XCode, the page was messed up.
+
 
 ## Flix Part 1
 
@@ -35,7 +36,7 @@ The collection view was the most difficult part because of one setting on XCode,
 - [X] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-![](week1.gif)
+<img src="week1.gif" width=250><br>
 
 ### Notes
 The only challenging part I encountered while building the app was installing CocaPods and getting it to
